@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NalakaDH/rn-bakery-chain.git/static/css/main.86620565.css",
+    "main.js": "/NalakaDH/rn-bakery-chain.git/static/js/main.7b029ce9.js",
+    "static/js/453.d855a71b.chunk.js": "/NalakaDH/rn-bakery-chain.git/static/js/453.d855a71b.chunk.js",
+    "static/media/icons8-dashboard-94.png": "/NalakaDH/rn-bakery-chain.git/static/media/icons8-dashboard-94.f988daf5e21bd8b6809a.png",
+    "index.html": "/NalakaDH/rn-bakery-chain.git/index.html",
+    "main.86620565.css.map": "/NalakaDH/rn-bakery-chain.git/static/css/main.86620565.css.map",
+    "main.7b029ce9.js.map": "/NalakaDH/rn-bakery-chain.git/static/js/main.7b029ce9.js.map",
+    "453.d855a71b.chunk.js.map": "/NalakaDH/rn-bakery-chain.git/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86620565.css",
+    "static/js/main.7b029ce9.js"
+  ]
+}
