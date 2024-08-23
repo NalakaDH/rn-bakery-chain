@@ -1,0 +1,33 @@
+/* Dashboard.CSS*/
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f0f4f8;
+}
+
+.chart-container {
+  width: 80%;
+  margin-bottom: 40px;
+}
+
+.chart-wrapper {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chart-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.loading {
+  font-size: 24px;
+  color: #555;
+  text-align: center;
+}
